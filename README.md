@@ -1,3 +1,5 @@
+# Artigo fakenews
+
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
 [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) 
 [![](https://img.shields.io/badge/Matplotlib-blue.svg)](https://matplotlib.org/)
@@ -12,8 +14,8 @@
 [![](https://img.shields.io/badge/NLTK-white.svg)](https://www.nltk.org/)
 [![](https://img.shields.io/badge/spaCy-blue.svg)](https://spacy.io/)
 
-# Artigo fakenews
-Datasets e Scripts do nosso artigo.
+
+Descrição: Datasets e Scripts do nosso artigo.
 
 
 # Base de dados - Nóticias 
