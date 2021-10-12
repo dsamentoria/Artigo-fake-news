@@ -14,8 +14,11 @@
 [![](https://img.shields.io/badge/NLTK-white.svg)](https://www.nltk.org/)
 [![](https://img.shields.io/badge/spaCy-blue.svg)](https://spacy.io/)
 
+
 # Artigo fakenews 
 Descrição: Datasets e Scripts do nosso artigo.
+
+
 
 
 # Base de dados - Nóticias 
