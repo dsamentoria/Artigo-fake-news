@@ -14,14 +14,10 @@
 [![](https://img.shields.io/badge/NLTK-white.svg)](https://www.nltk.org/)
 [![](https://img.shields.io/badge/spaCy-blue.svg)](https://spacy.io/)
 
-
 # Artigo fakenews 
 Descrição: Datasets e Scripts do nosso artigo.
 
-
-
-
-# Base de dados - Nóticias 
+# Base de dados - Notícias 
 Base de dados 1 -  Fake and real news dataset [Link](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
 Base de dados 2 - Notícias publicadas no Brasil [Link](https://www.kaggle.com/diogocaliman/notcias-publicadas-no-brasil)
@@ -32,7 +28,6 @@ Base de dados 3 - Classificação de notícias falsas com base na fonte [Link](h
 Base de dados 1 - Brazilian Election Fake News 2018 [Link](https://www.kaggle.com/caiovms/brazilian-election-fake-news-2018)
 
 Base de dados 2 - Fake News Election EUA fake news [Link](https://www.kaggle.com/c/fake-news/overview/evaluation) <-COMPETIÇÂO->
-
 
 # Base de dados - Covid19
 Base de dados 1 - Covid-19 Public Media Dataset by Anacode [Link](https://www.kaggle.com/jannalipenkova/covid19-public-media-dataset)
