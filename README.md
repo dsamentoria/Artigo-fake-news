@@ -1,6 +1,21 @@
 # Artigo fakenews
 Datasets e Scripts do nosso artigo.
 
+[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
+[![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) 
+[![](https://img.shields.io/badge/Matplotlib-blue.svg)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/plotly-green.svg)](https://plotly.com/)
+[![](https://img.shields.io/badge/Seaborn-green.svg)](https://seaborn.pydata.org/)
+[![](https://img.shields.io/badge/Matplotlib-orange.svg)](https://scikit-learn.org/stable/) 
+[![](https://img.shields.io/badge/Scikit_Learn-green.svg)](https://scikit-learn.org/stable/)
+[![](https://img.shields.io/badge/Numpy-White.svg)](https://numpy.org/)
+[![](https://img.shields.io/badge/Tensorflow-orange.svg)](https://www.tensorflow.org/?hl=pt-br)
+[![](https://img.shields.io/badge/Tensorflow-GPU-orange.svg)](https://www.tensorflow.org/?hl=pt-br)
+[![](https://img.shields.io/badge/Keras-green.svg)](https://keras.io/)
+[![](https://img.shields.io/badge/NLTK-white.svg)](https://www.nltk.org/)
+[![](https://img.shields.io/badge/spaCy-blue.svg)](https://spacy.io/)
+
+
 # Base de dados - Nóticias 
 Base de dados 1 -  Fake and real news dataset [Link](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
 
