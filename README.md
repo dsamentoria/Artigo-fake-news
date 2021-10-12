@@ -1,6 +1,7 @@
-# Artigo fakenews
+# Artigo fakenews 
 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-374/) 
+[![](https://img.shields.io/badge/Google-Colab-yellow.svg)](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR) 
 [![](https://img.shields.io/badge/Pandas-blue.svg)](https://pandas.pydata.org/) 
 [![](https://img.shields.io/badge/Matplotlib-blue.svg)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/plotly-green.svg)](https://plotly.com/)
