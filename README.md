@@ -24,6 +24,8 @@ Base de dados 2 - Notícias publicadas no Brasil [Link](https://www.kaggle.com/d
 
 Base de dados 3 - Classificação de notícias falsas com base na fonte [Link](https://www.kaggle.com/ruchi798/source-based-news-classification)
 
+Base de dados 4 - Fake news análise de notícias falsas [Link](https://www.kaggle.com/hassanamin/textdb3)
+
 # Base de dados - Eleições 
 Base de dados 1 - Brazilian Election Fake News 2018 [Link](https://www.kaggle.com/caiovms/brazilian-election-fake-news-2018)
 
